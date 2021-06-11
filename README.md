@@ -4,7 +4,7 @@ Clock Program written in Python especially for Windows
 
 Requirements:
 Standard Python Libraries + following Special Libraries:
-Tkinter, InternationalHolidays
+Tkinter, holidays, BeautifulSoup
 
 Support following Functions:
 1. Normal Clock with display of special Day in German
