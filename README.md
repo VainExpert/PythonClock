@@ -13,5 +13,5 @@ Support following Functions:
 4. Stopwatch
 
 TODO:
-Animated Sun-Time with Weather
-Animated Tetris-Clock
+- Animated Sun-Time with Weather,
+- Animated Tetris-Clock
